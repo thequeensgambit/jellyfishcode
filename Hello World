@@ -1,0 +1,13 @@
+//
+// DISCLAIMER: This is test code only. It is not part of any BUG BOUNTY. 
+// No information here is valid for any legitimate attack.
+// 
+
+# Get the version
+
+lotus = intuit.connector.connect(
+  user='Intuit_TABLEAU_USER',
+  password='ForsakenSanctuary!',
+  account='zscaler'
+  
+  )
